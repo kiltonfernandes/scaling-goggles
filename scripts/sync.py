@@ -108,7 +108,7 @@ def fetch_channel_avatar(channel_id: str) -> str | None:
 def download_mp3(video_url: str, out_dir: Path, bitrate_kbps: int) -> Path:
     """Use yt-dlp to download audio as mp3, mono, given bitrate."""
     out_template = str(out_dir / "%(id)s.%(ext)s")
-    cmd = [
+    base_cmd = [
         "yt-dlp",
         "-f", "bestaudio/best",
         "--extract-audio",
@@ -116,14 +116,25 @@ def download_mp3(video_url: str, out_dir: Path, bitrate_kbps: int) -> Path:
         "--postprocessor-args", f"ffmpeg:-ac 1 -b:a {bitrate_kbps}k",
         "--no-progress",
         "--no-warnings",
+        "--retries", "3",
+        "--user-agent", "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
         "-o", out_template,
-        video_url,
     ]
-    subprocess.run(cmd, check=True)
-    mp3s = list(out_dir.glob("*.mp3"))
-    if not mp3s:
-        raise RuntimeError(f"no mp3 produced for {video_url}")
-    return mp3s[0]
+    # Try multiple player clients to bypass YouTube bot detection on CI IPs.
+    last_err = None
+    for client in ("android", "ios", "web_safari", "tv_embedded"):
+        cmd = base_cmd + ["--extractor-args", f"youtube:player_client={client}", video_url]
+        try:
+            subprocess.run(cmd, check=True)
+            mp3s = list(out_dir.glob("*.mp3"))
+            if mp3s:
+                return mp3s[0]
+        except subprocess.CalledProcessError as e:
+            last_err = e
+            log(f"  yt-dlp client={client} failed, trying next")
+            continue
+    raise RuntimeError(f"no mp3 produced for {video_url}: {last_err}")
+
 
 
 def gh_release_for_video(video_id: str) -> dict:
@@ -189,7 +200,7 @@ def build_feed(channels: list[dict], state: dict, settings: dict) -> str:
     for ep in episodes:
         fe = fg.add_entry()
         fe.id(ep["url"])
-        fe.title(f"[{ep['_channel_name']}] {ep['title']}")
+        fe.title(f"{ep['_channel_name']} - {ep['title']}")
         fe.link(href=ep["url"])
         fe.description(ep.get("description") or ep["title"])
         fe.published(ep["published"])
