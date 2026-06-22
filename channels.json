@@ -1,5 +1,13 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "id": "UC4SUWizzKc1tptprBkWjX2Q",
+      "name": "South China Morning Post",
+      "url": "https://www.youtube.com/channel/UC4SUWizzKc1tptprBkWjX2Q",
+      "avatar": "https://yt3.googleusercontent.com/4Q9yos_fKmzf0o36ETS4IZelXBRLwJ5_4pSGvWNbLLhhGNs4RqmAmsYKPkc-Dx_EgVTCxaBOmdU=s900-c-k-c0x00ffffff-no-rj",
+      "max_videos": 3
+    }
+  ],
   "settings": {
     "purge_after_hours": 48,
     "feed_keep_days": 7,
