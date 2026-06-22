@@ -1,0 +1,8 @@
+{
+  "channels": [],
+  "settings": {
+    "purge_after_hours": 48,
+    "feed_keep_days": 7,
+    "audio_bitrate_kbps": 96
+  }
+}
