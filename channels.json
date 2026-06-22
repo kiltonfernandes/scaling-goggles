@@ -69,6 +69,13 @@
       "url": "https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw",
       "avatar": "https://yt3.googleusercontent.com/Hv9KhKIgzDR2HRws1YEHry7qlsLEmMjSzRRQJAPzPZBVw7w-gCKWZgkoUSZETv-OvzBBDdL1Lw=s900-c-k-c0x00ffffff-no-rj",
       "max_videos": 3
+    },
+    {
+      "id": "UCCj956IF62FbT7Gouszaj9w",
+      "name": "BBC News",
+      "url": "https://www.youtube.com/channel/UCCj956IF62FbT7Gouszaj9w",
+      "avatar": "https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj",
+      "max_videos": 3
     }
   ],
   "settings": {
