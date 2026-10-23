@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 08:45:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:13:30 +0000</lastBuildDate>
     <itunes:author>kiltonfernandes</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
@@ -73,6 +73,41 @@ Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma ante
       <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-AdkvQeldZGU/AdkvQeldZGU.mp3" length="83852484" type="audio/mpeg"/>
       <pubDate>Thu, 22 Oct 2026 16:40:49 +0000</pubDate>
       <itunes:image href="https://i2.ytimg.com/vi/AdkvQeldZGU/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - AO VIVO | NIKOLAS PRESIDENTE? | AS REGRAS DO DEBATE DA GLOBO | CASO ISABELLE CARACRISTI</title>
+      <link>https://www.youtube.com/watch?v=Wxmv7l79lSw</link>
+      <description>Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=Wxmv7l79lSw</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-Wxmv7l79lSw/Wxmv7l79lSw.mp3" length="35293382" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Oct 2026 12:49:10 +0000</pubDate>
+      <itunes:image href="https://i4.ytimg.com/vi/Wxmv7l79lSw/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - AO VIVO | TUDO SOBRE O DEBATE DA GLOBO | CARLOS BOLSONARO X PABLO MARÇAL | RENAN X TATI BERNARDI</title>
+      <link>https://www.youtube.com/watch?v=Q9S_VxbV5l8</link>
+      <description>Você bem informado do que pauta a sociedade.
+
+Além da Notícia: um programa com Paulo Mathias e um time de peso.
+
+Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join  
+
+#noticias #aovivo #politica #brasil #internacional #jornalismo #news #exclusivo #polemica #registadeu #lula #flavio #eleições2026</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=Q9S_VxbV5l8</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-Q9S_VxbV5l8/Q9S_VxbV5l8.mp3" length="99100854" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Oct 2026 15:16:39 +0000</pubDate>
+      <itunes:image href="https://i2.ytimg.com/vi/Q9S_VxbV5l8/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - AO VIVO | TUDO SOBRE O DEBATE DA GLOBO | ÚLTIMAS PESQUISAS | TSE DÁ 24H PARA EXPLICAÇÃO DA META</title>
+      <link>https://www.youtube.com/watch?v=3NPv_gt8NTI</link>
+      <description>Debate sobre os assuntos políticos mais quentes do dia.
+
+Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=3NPv_gt8NTI</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-3NPv_gt8NTI/3NPv_gt8NTI.mp3" length="89365068" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Oct 2026 15:59:13 +0000</pubDate>
+      <itunes:image href="https://i4.ytimg.com/vi/3NPv_gt8NTI/hqdefault.jpg"/>
     </item>
   </channel>
 </rss>
