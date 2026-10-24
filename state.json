@@ -136,6 +136,18 @@
           "audio_size": 99100854,
           "downloaded_at": "2026-10-23T21:13:05.769550+00:00",
           "purged_at": null
+        },
+        "9UuI7BwYGG8": {
+          "video_id": "9UuI7BwYGG8",
+          "title": "AO VIVO | BEATRIZ VITÓRIA: IRMÃO AMEAÇADO | HOMEM MATA EX E ESPOSA | PAIS SALVAM FILHA DE CÁRCERE",
+          "published": "2026-10-24T10:44:49+00:00",
+          "url": "https://www.youtube.com/watch?v=9UuI7BwYGG8",
+          "thumbnail": "https://i2.ytimg.com/vi/9UuI7BwYGG8/hqdefault.jpg",
+          "description": "Os principais casos policiais do dia estão no ar: no Fio da Meada, você acompanha as histórias mais impactantes, os desdobramentos mais recentes e análises com quem entende do assunto.",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-9UuI7BwYGG8/9UuI7BwYGG8.mp3",
+          "audio_size": 45091820,
+          "downloaded_at": "2026-10-24T15:46:47.289443+00:00",
+          "purged_at": null
         }
       }
     },
