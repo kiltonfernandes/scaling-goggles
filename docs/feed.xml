@@ -8,37 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 04:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:20:29 +0000</lastBuildDate>
     <itunes:author>kiltonfernandes</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
-    <item>
-      <title>Canal do Paulo Mathias - AO VIVO | RENAN SANTOS X ELEITORES DE FLÁVIO | MALÉVOLA DETIDA NO EGITO | CASO GISELE DA ESPANHA</title>
-      <link>https://www.youtube.com/watch?v=Xi_cU1yIH6Q</link>
-      <description>Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=Xi_cU1yIH6Q</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-Xi_cU1yIH6Q/Xi_cU1yIH6Q.mp3" length="8605928" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Oct 2026 12:46:49 +0000</pubDate>
-      <itunes:image href="https://i1.ytimg.com/vi/Xi_cU1yIH6Q/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>Canal do Paulo Mathias - PAULO MATHIAS E JANAÍNA PASCHOAL DEBATEM: FLÁVIO É RADICAL?</title>
-      <link>https://www.youtube.com/watch?v=pgoVFPUVk6Q</link>
-      <description>PAULO MATHIAS E JANAÍNA PASCHOAL DEBATEM: FLÁVIO É RADICAL?</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=pgoVFPUVk6Q</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-pgoVFPUVk6Q/pgoVFPUVk6Q.mp3" length="8704759" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Oct 2026 16:40:08 +0000</pubDate>
-      <itunes:image href="https://i1.ytimg.com/vi/pgoVFPUVk6Q/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>Canal do Paulo Mathias - GLOBO SE PREPARA PARA O DEBATE ENTRE FLÁVIO E LULA</title>
-      <link>https://www.youtube.com/watch?v=E5_NG_2quzg</link>
-      <description>GLOBO SE PREPARA PARA O DEBATE ENTRE FLÁVIO E LULA</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=E5_NG_2quzg</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-E5_NG_2quzg/E5_NG_2quzg.mp3" length="6836320" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Oct 2026 16:43:18 +0000</pubDate>
-      <itunes:image href="https://i2.ytimg.com/vi/E5_NG_2quzg/hqdefault.jpg"/>
-    </item>
     <item>
       <title>Canal do Paulo Mathias - AO VIVO | LULA ACEITA ABRIR SIGILO | RICHARLISON X WILER TOMAZ | PROTESTO NA PORTA DA GLOBO</title>
       <link>https://www.youtube.com/watch?v=30BRFOkHDkI</link>

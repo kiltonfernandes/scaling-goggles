@@ -36,10 +36,10 @@
           "url": "https://www.youtube.com/watch?v=Xi_cU1yIH6Q",
           "thumbnail": "https://i1.ytimg.com/vi/Xi_cU1yIH6Q/hqdefault.jpg",
           "description": "Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-Xi_cU1yIH6Q/Xi_cU1yIH6Q.mp3",
-          "audio_size": 8605928,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-21T17:18:45.544513+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-24T08:20:25.122810+00:00"
         },
         "E5_NG_2quzg": {
           "video_id": "E5_NG_2quzg",
@@ -48,10 +48,10 @@
           "url": "https://www.youtube.com/watch?v=E5_NG_2quzg",
           "thumbnail": "https://i2.ytimg.com/vi/E5_NG_2quzg/hqdefault.jpg",
           "description": "",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-E5_NG_2quzg/E5_NG_2quzg.mp3",
-          "audio_size": 6836320,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-21T17:19:00.286155+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-24T08:20:25.122810+00:00"
         },
         "pgoVFPUVk6Q": {
           "video_id": "pgoVFPUVk6Q",
@@ -60,10 +60,10 @@
           "url": "https://www.youtube.com/watch?v=pgoVFPUVk6Q",
           "thumbnail": "https://i1.ytimg.com/vi/pgoVFPUVk6Q/hqdefault.jpg",
           "description": "",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-pgoVFPUVk6Q/pgoVFPUVk6Q.mp3",
-          "audio_size": 8704759,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-21T17:19:19.979083+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-24T08:20:25.122810+00:00"
         },
         "30BRFOkHDkI": {
           "video_id": "30BRFOkHDkI",
