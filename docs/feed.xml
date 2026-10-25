@@ -8,45 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 04:04:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 08:38:50 +0000</lastBuildDate>
     <itunes:author>kiltonfernandes</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
-    <item>
-      <title>Canal do Paulo Mathias - AO VIVO | LULA ACEITA ABRIR SIGILO | RICHARLISON X WILER TOMAZ | PROTESTO NA PORTA DA GLOBO</title>
-      <link>https://www.youtube.com/watch?v=30BRFOkHDkI</link>
-      <description>Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=30BRFOkHDkI</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-30BRFOkHDkI/30BRFOkHDkI.mp3" length="34240083" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Oct 2026 13:02:09 +0000</pubDate>
-      <itunes:image href="https://i4.ytimg.com/vi/30BRFOkHDkI/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>Canal do Paulo Mathias - AO VIVO | BOMBA: FESTA COM FLÁVIO E GAROTAS DE PROGRAMA | MARÇAL FORA DO DEBATE | QUEM É MARIANA?</title>
-      <link>https://www.youtube.com/watch?v=GCYS3pqi_O8</link>
-      <description>Você bem informado do que pauta a sociedade.
-
-Além da Notícia: um programa com Paulo Mathias e um time de peso.
-
-Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join  
-
-#noticias #aovivo #politica #brasil #internacional #jornalismo #news #exclusivo #polemica #registadeu #lula #flavio #eleições2026</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=GCYS3pqi_O8</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-GCYS3pqi_O8/GCYS3pqi_O8.mp3" length="99097635" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Oct 2026 15:09:56 +0000</pubDate>
-      <itunes:image href="https://i4.ytimg.com/vi/GCYS3pqi_O8/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>Canal do Paulo Mathias - AO VIVO | ABERTURA DE SIGILOS DE LULA E FLÁVIO | DATAFOLHA HOJE | PREPARAÇÃO PARA O DEBATE DA GLOBO</title>
-      <link>https://www.youtube.com/watch?v=AdkvQeldZGU</link>
-      <description>Debate sobre os assuntos políticos mais quentes do dia.
-
-Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=AdkvQeldZGU</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-AdkvQeldZGU/AdkvQeldZGU.mp3" length="83852484" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Oct 2026 16:40:49 +0000</pubDate>
-      <itunes:image href="https://i2.ytimg.com/vi/AdkvQeldZGU/hqdefault.jpg"/>
-    </item>
     <item>
       <title>Canal do Paulo Mathias - AO VIVO | NIKOLAS PRESIDENTE? | AS REGRAS DO DEBATE DA GLOBO | CASO ISABELLE CARACRISTI</title>
       <link>https://www.youtube.com/watch?v=Wxmv7l79lSw</link>
