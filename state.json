@@ -148,6 +148,42 @@
           "audio_size": 45091820,
           "downloaded_at": "2026-10-24T15:46:47.289443+00:00",
           "purged_at": null
+        },
+        "NF9VafbKmxA": {
+          "video_id": "NF9VafbKmxA",
+          "title": "HELICÓPTERO EM QUE RICK MORREU TINHA CAIXA-PRETA VAZIA? | FAB INTERCEPTA VOO DE TRAFICANTES",
+          "published": "2026-10-24T21:00:10+00:00",
+          "url": "https://www.youtube.com/watch?v=NF9VafbKmxA",
+          "thumbnail": "https://i3.ytimg.com/vi/NF9VafbKmxA/hqdefault.jpg",
+          "description": "Hoje, no Aeroluz, Diogo da Luz comenta sobre relatório preliminar do Cenipa, sobre a queda do helicóptero que matou Rick, da dupla com Renner, e mais três pessoas: a caixa-preta não salvou dados do incidente. Outro assunto tratado é da interceptação de um helicóptero de traficantes feito pela FAB, em espaço aéreo brasileiro.\n\n🔔 Inscreva-se no canal, ative o sininho e deixe seu comentário!",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-NF9VafbKmxA/NF9VafbKmxA.mp3",
+          "audio_size": 11169622,
+          "downloaded_at": "2026-10-25T15:55:56.674907+00:00",
+          "purged_at": null
+        },
+        "3edUNzfZo6o": {
+          "video_id": "3edUNzfZo6o",
+          "title": "PAULO MATHIAS COMENTA: QUEM GANHOU O DEBATE NA GLOBO?",
+          "published": "2026-10-24T17:12:58+00:00",
+          "url": "https://www.youtube.com/watch?v=3edUNzfZo6o",
+          "thumbnail": "https://i4.ytimg.com/vi/3edUNzfZo6o/hqdefault.jpg",
+          "description": "",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-3edUNzfZo6o/3edUNzfZo6o.mp3",
+          "audio_size": 31890747,
+          "downloaded_at": "2026-10-25T15:56:54.209328+00:00",
+          "purged_at": null
+        },
+        "YbJhMFKoaB4": {
+          "video_id": "YbJhMFKoaB4",
+          "title": "MINISTRO PAULO PEREIRA FALA COM SESTARO E PAULO MATHIAS",
+          "published": "2026-10-24T16:54:21+00:00",
+          "url": "https://www.youtube.com/watch?v=YbJhMFKoaB4",
+          "thumbnail": "https://i2.ytimg.com/vi/YbJhMFKoaB4/hqdefault.jpg",
+          "description": "",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-YbJhMFKoaB4/YbJhMFKoaB4.mp3",
+          "audio_size": 71328495,
+          "downloaded_at": "2026-10-25T15:59:12.360120+00:00",
+          "purged_at": null
         }
       }
     },

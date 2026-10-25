@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 08:38:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 15:59:33 +0000</lastBuildDate>
     <itunes:author>kiltonfernandes</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
@@ -55,6 +55,35 @@ Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma ante
       <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-9UuI7BwYGG8/9UuI7BwYGG8.mp3" length="45091820" type="audio/mpeg"/>
       <pubDate>Sat, 24 Oct 2026 10:44:49 +0000</pubDate>
       <itunes:image href="https://i2.ytimg.com/vi/9UuI7BwYGG8/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - MINISTRO PAULO PEREIRA FALA COM SESTARO E PAULO MATHIAS</title>
+      <link>https://www.youtube.com/watch?v=YbJhMFKoaB4</link>
+      <description>MINISTRO PAULO PEREIRA FALA COM SESTARO E PAULO MATHIAS</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=YbJhMFKoaB4</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-YbJhMFKoaB4/YbJhMFKoaB4.mp3" length="71328495" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Oct 2026 16:54:21 +0000</pubDate>
+      <itunes:image href="https://i2.ytimg.com/vi/YbJhMFKoaB4/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - PAULO MATHIAS COMENTA: QUEM GANHOU O DEBATE NA GLOBO?</title>
+      <link>https://www.youtube.com/watch?v=3edUNzfZo6o</link>
+      <description>PAULO MATHIAS COMENTA: QUEM GANHOU O DEBATE NA GLOBO?</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=3edUNzfZo6o</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-3edUNzfZo6o/3edUNzfZo6o.mp3" length="31890747" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Oct 2026 17:12:58 +0000</pubDate>
+      <itunes:image href="https://i4.ytimg.com/vi/3edUNzfZo6o/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - HELICÓPTERO EM QUE RICK MORREU TINHA CAIXA-PRETA VAZIA? | FAB INTERCEPTA VOO DE TRAFICANTES</title>
+      <link>https://www.youtube.com/watch?v=NF9VafbKmxA</link>
+      <description>Hoje, no Aeroluz, Diogo da Luz comenta sobre relatório preliminar do Cenipa, sobre a queda do helicóptero que matou Rick, da dupla com Renner, e mais três pessoas: a caixa-preta não salvou dados do incidente. Outro assunto tratado é da interceptação de um helicóptero de traficantes feito pela FAB, em espaço aéreo brasileiro.
+
+🔔 Inscreva-se no canal, ative o sininho e deixe seu comentário!</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=NF9VafbKmxA</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-NF9VafbKmxA/NF9VafbKmxA.mp3" length="11169622" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Oct 2026 21:00:10 +0000</pubDate>
+      <itunes:image href="https://i3.ytimg.com/vi/NF9VafbKmxA/hqdefault.jpg"/>
     </item>
   </channel>
 </rss>
