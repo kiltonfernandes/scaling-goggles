@@ -144,10 +144,10 @@
           "url": "https://www.youtube.com/watch?v=9UuI7BwYGG8",
           "thumbnail": "https://i2.ytimg.com/vi/9UuI7BwYGG8/hqdefault.jpg",
           "description": "Os principais casos policiais do dia estão no ar: no Fio da Meada, você acompanha as histórias mais impactantes, os desdobramentos mais recentes e análises com quem entende do assunto.",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-9UuI7BwYGG8/9UuI7BwYGG8.mp3",
-          "audio_size": 45091820,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-24T15:46:47.289443+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-27T09:15:31.086238+00:00"
         },
         "NF9VafbKmxA": {
           "video_id": "NF9VafbKmxA",

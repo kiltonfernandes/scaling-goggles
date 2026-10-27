@@ -8,19 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:28:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:15:32 +0000</lastBuildDate>
     <itunes:author>kiltonfernandes</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
-    <item>
-      <title>Canal do Paulo Mathias - AO VIVO | BEATRIZ VITÓRIA: IRMÃO AMEAÇADO | HOMEM MATA EX E ESPOSA | PAIS SALVAM FILHA DE CÁRCERE</title>
-      <link>https://www.youtube.com/watch?v=9UuI7BwYGG8</link>
-      <description>Os principais casos policiais do dia estão no ar: no Fio da Meada, você acompanha as histórias mais impactantes, os desdobramentos mais recentes e análises com quem entende do assunto.</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=9UuI7BwYGG8</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-9UuI7BwYGG8/9UuI7BwYGG8.mp3" length="45091820" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Oct 2026 10:44:49 +0000</pubDate>
-      <itunes:image href="https://i2.ytimg.com/vi/9UuI7BwYGG8/hqdefault.jpg"/>
-    </item>
     <item>
       <title>Canal do Paulo Mathias - MINISTRO PAULO PEREIRA FALA COM SESTARO E PAULO MATHIAS</title>
       <link>https://www.youtube.com/watch?v=YbJhMFKoaB4</link>
