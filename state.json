@@ -220,6 +220,30 @@
           "audio_size": 3976415,
           "downloaded_at": "2026-10-26T21:15:32.659194+00:00",
           "purged_at": null
+        },
+        "U4IAG45ZDI0": {
+          "video_id": "U4IAG45ZDI0",
+          "title": "AO VIVO | URGENTE: FLÁVIO BOLSONARO FUGIU DO BRASIL?",
+          "published": "2026-10-27T11:04:54+00:00",
+          "url": "https://www.youtube.com/watch?v=U4IAG45ZDI0",
+          "thumbnail": "https://i2.ytimg.com/vi/U4IAG45ZDI0/hqdefault.jpg",
+          "description": "Você bem informado do que pauta a sociedade.\n\nAlém da Notícia: um programa com Paulo Mathias e um time de peso.\n\nTorne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join  \n\n#noticias #aovivo #politica #brasil #internacional #jornalismo #news #exclusivo #polemica #registadeu #lula #flavio #eleições2026",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-U4IAG45ZDI0/U4IAG45ZDI0.mp3",
+          "audio_size": 155516439,
+          "downloaded_at": "2026-10-27T18:05:47.426260+00:00",
+          "purged_at": null
+        },
+        "KjDMsgIJRBk": {
+          "video_id": "KjDMsgIJRBk",
+          "title": "QUAIS FAMOSOS COMEMORARAM A VITÓRIA DE LULA",
+          "published": "2026-10-27T14:49:43+00:00",
+          "url": "https://www.youtube.com/watch?v=KjDMsgIJRBk",
+          "thumbnail": "https://i4.ytimg.com/vi/KjDMsgIJRBk/hqdefault.jpg",
+          "description": "",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-KjDMsgIJRBk/KjDMsgIJRBk.mp3",
+          "audio_size": 2470862,
+          "downloaded_at": "2026-10-27T18:05:57.207062+00:00",
+          "purged_at": null
         }
       }
     },
