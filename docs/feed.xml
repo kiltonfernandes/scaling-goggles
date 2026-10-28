@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 09:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:31:11 +0000</lastBuildDate>
     <itunes:author>kiltonfernandes</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
@@ -64,6 +64,35 @@ Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma ante
       <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-KjDMsgIJRBk/KjDMsgIJRBk.mp3" length="2470862" type="audio/mpeg"/>
       <pubDate>Tue, 27 Oct 2026 14:49:43 +0000</pubDate>
       <itunes:image href="https://i4.ytimg.com/vi/KjDMsgIJRBk/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - AO VIVO | COBERTURA COMPLETA: FLÁVIO ESTÁ EM MIAMI | TRUMP PARTICIPOU DE FUGA</title>
+      <link>https://www.youtube.com/watch?v=AslZ66bPj8k</link>
+      <description>Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=AslZ66bPj8k</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-AslZ66bPj8k/AslZ66bPj8k.mp3" length="87303264" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Oct 2026 12:36:48 +0000</pubDate>
+      <itunes:image href="https://i2.ytimg.com/vi/AslZ66bPj8k/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - AO VIVO | FLÁVIO CHEGA AOS EUA E DEVE DAR COLETIVA AMANHÃ | ALCOLUMBRE PLANEJA ANISTIA A BOLSONARO</title>
+      <link>https://www.youtube.com/watch?v=DMwRe_Y42aU</link>
+      <description>Debate sobre os assuntos políticos mais quentes do dia.
+
+Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=DMwRe_Y42aU</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-DMwRe_Y42aU/DMwRe_Y42aU.mp3" length="88603195" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Oct 2026 17:32:33 +0000</pubDate>
+      <itunes:image href="https://i1.ytimg.com/vi/DMwRe_Y42aU/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - PENÉLOPE NOVA X JANAINA PASCHOAL: O DEBATE SOBRE A DERROTA DE FLÁVIO</title>
+      <link>https://www.youtube.com/watch?v=JfZwBEe8M8I</link>
+      <description>PENÉLOPE NOVA X JANAINA PASCHOAL: O DEBATE SOBRE A DERROTA DE FLÁVIO</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=JfZwBEe8M8I</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-JfZwBEe8M8I/JfZwBEe8M8I.mp3" length="24327573" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Oct 2026 17:59:35 +0000</pubDate>
+      <itunes:image href="https://i3.ytimg.com/vi/JfZwBEe8M8I/hqdefault.jpg"/>
     </item>
   </channel>
 </rss>
