@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 10:18:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:28:27 +0000</lastBuildDate>
     <itunes:author>kiltonfernandes</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
@@ -64,6 +64,41 @@ Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma ante
       <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-JfZwBEe8M8I/JfZwBEe8M8I.mp3" length="24327573" type="audio/mpeg"/>
       <pubDate>Wed, 28 Oct 2026 17:59:35 +0000</pubDate>
       <itunes:image href="https://i3.ytimg.com/vi/JfZwBEe8M8I/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - AO VIVO | CARTA DE FLÁVIO BOLSONARO | TARCÍSIO CONFIRMA 2030 | CASO RENATO CARIANI</title>
+      <link>https://www.youtube.com/watch?v=-t-dRIygE8o</link>
+      <description>Você bem informado do que pauta a sociedade.
+
+Além da Notícia: um programa com Paulo Mathias e um time de peso.
+
+Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join  
+
+#noticias #aovivo #politica #brasil #internacional #jornalismo #news #exclusivo #polemica #registadeu #lula #flavio #eleições2026</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=-t-dRIygE8o</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v--t-dRIygE8o/-t-dRIygE8o.mp3" length="97973085" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Oct 2026 11:20:36 +0000</pubDate>
+      <itunes:image href="https://i2.ytimg.com/vi/-t-dRIygE8o/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - AO VIVO | ISOLAMENTO DE FLÁVIO | BASTIDORES DA CARTA | VIRGINIA X SILVIA ABRAVANEL | RENATO CARIANI</title>
+      <link>https://www.youtube.com/watch?v=IuA3fSDXZyI</link>
+      <description>Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=IuA3fSDXZyI</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-IuA3fSDXZyI/IuA3fSDXZyI.mp3" length="99239200" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Oct 2026 13:11:47 +0000</pubDate>
+      <itunes:image href="https://i2.ytimg.com/vi/IuA3fSDXZyI/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - AO VIVO | PAULO FIGUEIREDO CULPA CHATGPT POR ERROS EM CARTA | TRUMP CRITICA ELEIÇÃO DO BRASIL</title>
+      <link>https://www.youtube.com/watch?v=EJVuutj-QgM</link>
+      <description>Debate sobre os assuntos políticos mais quentes do dia.
+
+Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=EJVuutj-QgM</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-EJVuutj-QgM/EJVuutj-QgM.mp3" length="87573843" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Oct 2026 17:25:28 +0000</pubDate>
+      <itunes:image href="https://i2.ytimg.com/vi/EJVuutj-QgM/hqdefault.jpg"/>
     </item>
   </channel>
 </rss>
