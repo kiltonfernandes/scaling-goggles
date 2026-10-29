@@ -192,10 +192,10 @@
           "url": "https://www.youtube.com/watch?v=v8WLYJzryEQ",
           "thumbnail": "https://i3.ytimg.com/vi/v8WLYJzryEQ/hqdefault.jpg",
           "description": "Debate sobre os assuntos políticos mais quentes do dia.\n\nTorne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-v8WLYJzryEQ/v8WLYJzryEQ.mp3",
-          "audio_size": 78528216,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-26T21:14:47.799116+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-29T10:18:38.122162+00:00"
         },
         "LX1muuz2Vtg": {
           "video_id": "LX1muuz2Vtg",
@@ -204,10 +204,10 @@
           "url": "https://www.youtube.com/watch?v=LX1muuz2Vtg",
           "thumbnail": "https://i1.ytimg.com/vi/LX1muuz2Vtg/hqdefault.jpg",
           "description": "",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-LX1muuz2Vtg/LX1muuz2Vtg.mp3",
-          "audio_size": 12905744,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-26T21:15:20.900580+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-29T10:18:38.122162+00:00"
         },
         "uti80B_yb3o": {
           "video_id": "uti80B_yb3o",
@@ -216,10 +216,10 @@
           "url": "https://www.youtube.com/watch?v=uti80B_yb3o",
           "thumbnail": "https://i2.ytimg.com/vi/uti80B_yb3o/hqdefault.jpg",
           "description": "",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-uti80B_yb3o/uti80B_yb3o.mp3",
-          "audio_size": 3976415,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-26T21:15:32.659194+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-29T10:18:38.122162+00:00"
         },
         "U4IAG45ZDI0": {
           "video_id": "U4IAG45ZDI0",

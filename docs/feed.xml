@@ -8,39 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 05:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:18:42 +0000</lastBuildDate>
     <itunes:author>kiltonfernandes</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
-    <item>
-      <title>Canal do Paulo Mathias - AO VIVO | VIRADA NAS URNAS: O QUE EXPLICA A VITÓRIA DE LULA? | FLÁVIO TEME PERDA DE PASSAPORTE</title>
-      <link>https://www.youtube.com/watch?v=v8WLYJzryEQ</link>
-      <description>Debate sobre os assuntos políticos mais quentes do dia.
-
-Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=v8WLYJzryEQ</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-v8WLYJzryEQ/v8WLYJzryEQ.mp3" length="78528216" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Oct 2026 17:46:48 +0000</pubDate>
-      <itunes:image href="https://i3.ytimg.com/vi/v8WLYJzryEQ/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>Canal do Paulo Mathias - PAULO MATHIAS EXPLICA EDITORIAL DA MATHIASTV</title>
-      <link>https://www.youtube.com/watch?v=uti80B_yb3o</link>
-      <description>PAULO MATHIAS EXPLICA EDITORIAL DA MATHIASTV</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=uti80B_yb3o</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-uti80B_yb3o/uti80B_yb3o.mp3" length="3976415" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Oct 2026 18:28:07 +0000</pubDate>
-      <itunes:image href="https://i2.ytimg.com/vi/uti80B_yb3o/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>Canal do Paulo Mathias - CLÁUDIO MANOEL COMENTA: JANONES FOI DECISIVO PARA LULA</title>
-      <link>https://www.youtube.com/watch?v=LX1muuz2Vtg</link>
-      <description>CLÁUDIO MANOEL COMENTA: JANONES FOI DECISIVO PARA LULA</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=LX1muuz2Vtg</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-LX1muuz2Vtg/LX1muuz2Vtg.mp3" length="12905744" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Oct 2026 18:30:39 +0000</pubDate>
-      <itunes:image href="https://i1.ytimg.com/vi/LX1muuz2Vtg/hqdefault.jpg"/>
-    </item>
     <item>
       <title>Canal do Paulo Mathias - AO VIVO | URGENTE: FLÁVIO BOLSONARO FUGIU DO BRASIL?</title>
       <link>https://www.youtube.com/watch?v=U4IAG45ZDI0</link>
