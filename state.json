@@ -228,10 +228,10 @@
           "url": "https://www.youtube.com/watch?v=U4IAG45ZDI0",
           "thumbnail": "https://i2.ytimg.com/vi/U4IAG45ZDI0/hqdefault.jpg",
           "description": "Você bem informado do que pauta a sociedade.\n\nAlém da Notícia: um programa com Paulo Mathias e um time de peso.\n\nTorne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join  \n\n#noticias #aovivo #politica #brasil #internacional #jornalismo #news #exclusivo #polemica #registadeu #lula #flavio #eleições2026",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-U4IAG45ZDI0/U4IAG45ZDI0.mp3",
-          "audio_size": 155516439,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-27T18:05:47.426260+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-30T10:21:08.578077+00:00"
         },
         "KjDMsgIJRBk": {
           "video_id": "KjDMsgIJRBk",
@@ -240,10 +240,10 @@
           "url": "https://www.youtube.com/watch?v=KjDMsgIJRBk",
           "thumbnail": "https://i4.ytimg.com/vi/KjDMsgIJRBk/hqdefault.jpg",
           "description": "",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-KjDMsgIJRBk/KjDMsgIJRBk.mp3",
-          "audio_size": 2470862,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-27T18:05:57.207062+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-30T10:21:08.578077+00:00"
         },
         "DMwRe_Y42aU": {
           "video_id": "DMwRe_Y42aU",
