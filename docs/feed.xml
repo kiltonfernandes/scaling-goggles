@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:06:00 +0000</lastBuildDate>
     <itunes:author>kiltonfernandes</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
@@ -75,6 +75,41 @@ Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma ante
       <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-EJVuutj-QgM/EJVuutj-QgM.mp3" length="87573843" type="audio/mpeg"/>
       <pubDate>Thu, 29 Oct 2026 17:25:28 +0000</pubDate>
       <itunes:image href="https://i2.ytimg.com/vi/EJVuutj-QgM/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - AO VIVO | FLÁVIO QUER BARRAR TARCÍSIO | WAGNER MOURA MINISTRO DO LULA? | TITI MULLER X RENAN SANTOS</title>
+      <link>https://www.youtube.com/watch?v=1E7EjlBP7SY</link>
+      <description>Você bem informado do que pauta a sociedade.
+
+Além da Notícia: um programa com Paulo Mathias e um time de peso.
+
+Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join  
+
+#noticias #aovivo #politica #brasil #internacional #jornalismo #news #exclusivo #polemica #registadeu #lula #flavio #eleições2026</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=1E7EjlBP7SY</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-1E7EjlBP7SY/1E7EjlBP7SY.mp3" length="92691138" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Oct 2026 11:02:50 +0000</pubDate>
+      <itunes:image href="https://i2.ytimg.com/vi/1E7EjlBP7SY/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - AO VIVO | COBERTURA COMPLETA: ALCOLUMBRE QUER PERDOAR BOLSONARO | CELULAR DE VORCARO ALTERADO</title>
+      <link>https://www.youtube.com/watch?v=8vgyhV7HeEU</link>
+      <description>Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=8vgyhV7HeEU</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-8vgyhV7HeEU/8vgyhV7HeEU.mp3" length="6677487" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Oct 2026 12:46:34 +0000</pubDate>
+      <itunes:image href="https://i1.ytimg.com/vi/8vgyhV7HeEU/hqdefault.jpg"/>
+    </item>
+    <item>
+      <title>Canal do Paulo Mathias - AO VIVO | MINISTROS DO STF QUEREM REDUÇÃO DE PENA DE BOLSONARO | TARCÍSIO PROVOCA MAL ESTAR NO PL</title>
+      <link>https://www.youtube.com/watch?v=MnDna4IyTxg</link>
+      <description>Debate sobre os assuntos políticos mais quentes do dia.
+
+Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=MnDna4IyTxg</guid>
+      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-MnDna4IyTxg/MnDna4IyTxg.mp3" length="62334102" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Oct 2026 17:45:23 +0000</pubDate>
+      <itunes:image href="https://i2.ytimg.com/vi/MnDna4IyTxg/hqdefault.jpg"/>
     </item>
   </channel>
 </rss>
