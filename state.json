@@ -316,6 +316,42 @@
           "audio_size": 92691138,
           "downloaded_at": "2026-10-30T20:05:37.412207+00:00",
           "purged_at": null
+        },
+        "pRG67ApIkaA": {
+          "video_id": "pRG67ApIkaA",
+          "title": "JOTA COMENTA: FLÁVIO DIZ QUE SERÁ CANDIDATO ANTES DE 2030",
+          "published": "2026-10-31T16:59:24+00:00",
+          "url": "https://www.youtube.com/watch?v=pRG67ApIkaA",
+          "thumbnail": "https://i1.ytimg.com/vi/pRG67ApIkaA/hqdefault.jpg",
+          "description": "",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-pRG67ApIkaA/pRG67ApIkaA.mp3",
+          "audio_size": 9121524,
+          "downloaded_at": "2026-10-31T17:09:22.438077+00:00",
+          "purged_at": null
+        },
+        "bwoSlnOn6BI": {
+          "video_id": "bwoSlnOn6BI",
+          "title": "ERIKA HILTON CRIA SITE PARA CRIAR CPI DAS BIG TECHS",
+          "published": "2026-10-31T16:59:04+00:00",
+          "url": "https://www.youtube.com/watch?v=bwoSlnOn6BI",
+          "thumbnail": "https://i3.ytimg.com/vi/bwoSlnOn6BI/hqdefault.jpg",
+          "description": "",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-bwoSlnOn6BI/bwoSlnOn6BI.mp3",
+          "audio_size": 5354046,
+          "downloaded_at": "2026-10-31T17:09:36.823821+00:00",
+          "purged_at": null
+        },
+        "7EFG1m6A9-s": {
+          "video_id": "7EFG1m6A9-s",
+          "title": "CANDIDATO DO MISSÃO FINGE APOIAR LULA PARA \"TIRAR SARRO\"",
+          "published": "2026-10-31T16:58:02+00:00",
+          "url": "https://www.youtube.com/watch?v=7EFG1m6A9-s",
+          "thumbnail": "https://i4.ytimg.com/vi/7EFG1m6A9-s/hqdefault.jpg",
+          "description": "",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-7EFG1m6A9-s/7EFG1m6A9-s.mp3",
+          "audio_size": 4842031,
+          "downloaded_at": "2026-10-31T17:09:50.004855+00:00",
+          "purged_at": null
         }
       }
     },
