@@ -29,42 +29,6 @@
     },
     "UCARu6TU-jEPZISboI3TEYZw": {
       "episodes": {
-        "Xi_cU1yIH6Q": {
-          "video_id": "Xi_cU1yIH6Q",
-          "title": "AO VIVO | RENAN SANTOS X ELEITORES DE FLÁVIO | MALÉVOLA DETIDA NO EGITO | CASO GISELE DA ESPANHA",
-          "published": "2026-10-21T12:46:49+00:00",
-          "url": "https://www.youtube.com/watch?v=Xi_cU1yIH6Q",
-          "thumbnail": "https://i1.ytimg.com/vi/Xi_cU1yIH6Q/hqdefault.jpg",
-          "description": "Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join",
-          "audio_url": null,
-          "audio_size": 0,
-          "downloaded_at": "2026-10-21T17:18:45.544513+00:00",
-          "purged_at": "2026-10-24T08:20:25.122810+00:00"
-        },
-        "E5_NG_2quzg": {
-          "video_id": "E5_NG_2quzg",
-          "title": "GLOBO SE PREPARA PARA O DEBATE ENTRE FLÁVIO E LULA",
-          "published": "2026-10-21T16:43:18+00:00",
-          "url": "https://www.youtube.com/watch?v=E5_NG_2quzg",
-          "thumbnail": "https://i2.ytimg.com/vi/E5_NG_2quzg/hqdefault.jpg",
-          "description": "",
-          "audio_url": null,
-          "audio_size": 0,
-          "downloaded_at": "2026-10-21T17:19:00.286155+00:00",
-          "purged_at": "2026-10-24T08:20:25.122810+00:00"
-        },
-        "pgoVFPUVk6Q": {
-          "video_id": "pgoVFPUVk6Q",
-          "title": "PAULO MATHIAS E JANAÍNA PASCHOAL DEBATEM: FLÁVIO É RADICAL?",
-          "published": "2026-10-21T16:40:08+00:00",
-          "url": "https://www.youtube.com/watch?v=pgoVFPUVk6Q",
-          "thumbnail": "https://i1.ytimg.com/vi/pgoVFPUVk6Q/hqdefault.jpg",
-          "description": "",
-          "audio_url": null,
-          "audio_size": 0,
-          "downloaded_at": "2026-10-21T17:19:19.979083+00:00",
-          "purged_at": "2026-10-24T08:20:25.122810+00:00"
-        },
         "30BRFOkHDkI": {
           "video_id": "30BRFOkHDkI",
           "title": "AO VIVO | LULA ACEITA ABRIR SIGILO | RICHARLISON X WILER TOMAZ | PROTESTO NA PORTA DA GLOBO",
@@ -252,10 +216,10 @@
           "url": "https://www.youtube.com/watch?v=DMwRe_Y42aU",
           "thumbnail": "https://i1.ytimg.com/vi/DMwRe_Y42aU/hqdefault.jpg",
           "description": "Debate sobre os assuntos políticos mais quentes do dia.\n\nTorne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-DMwRe_Y42aU/DMwRe_Y42aU.mp3",
-          "audio_size": 88603195,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-28T21:15:15.283553+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-31T09:53:08.218351+00:00"
         },
         "AslZ66bPj8k": {
           "video_id": "AslZ66bPj8k",
@@ -264,10 +228,10 @@
           "url": "https://www.youtube.com/watch?v=AslZ66bPj8k",
           "thumbnail": "https://i2.ytimg.com/vi/AslZ66bPj8k/hqdefault.jpg",
           "description": "Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-AslZ66bPj8k/AslZ66bPj8k.mp3",
-          "audio_size": 87303264,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-28T21:29:52.991762+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-31T09:53:08.218351+00:00"
         },
         "JfZwBEe8M8I": {
           "video_id": "JfZwBEe8M8I",
@@ -276,10 +240,10 @@
           "url": "https://www.youtube.com/watch?v=JfZwBEe8M8I",
           "thumbnail": "https://i3.ytimg.com/vi/JfZwBEe8M8I/hqdefault.jpg",
           "description": "",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-JfZwBEe8M8I/JfZwBEe8M8I.mp3",
-          "audio_size": 24327573,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-28T21:30:47.800488+00:00",
-          "purged_at": null
+          "purged_at": "2026-10-31T09:53:08.218351+00:00"
         },
         "EJVuutj-QgM": {
           "video_id": "EJVuutj-QgM",
