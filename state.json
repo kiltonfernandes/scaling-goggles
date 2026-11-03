@@ -29,18 +29,6 @@
     },
     "UCARu6TU-jEPZISboI3TEYZw": {
       "episodes": {
-        "9UuI7BwYGG8": {
-          "video_id": "9UuI7BwYGG8",
-          "title": "AO VIVO | BEATRIZ VITÓRIA: IRMÃO AMEAÇADO | HOMEM MATA EX E ESPOSA | PAIS SALVAM FILHA DE CÁRCERE",
-          "published": "2026-10-24T10:44:49+00:00",
-          "url": "https://www.youtube.com/watch?v=9UuI7BwYGG8",
-          "thumbnail": "https://i2.ytimg.com/vi/9UuI7BwYGG8/hqdefault.jpg",
-          "description": "Os principais casos policiais do dia estão no ar: no Fio da Meada, você acompanha as histórias mais impactantes, os desdobramentos mais recentes e análises com quem entende do assunto.",
-          "audio_url": null,
-          "audio_size": 0,
-          "downloaded_at": "2026-10-24T15:46:47.289443+00:00",
-          "purged_at": "2026-10-27T09:15:31.086238+00:00"
-        },
         "NF9VafbKmxA": {
           "video_id": "NF9VafbKmxA",
           "title": "HELICÓPTERO EM QUE RICK MORREU TINHA CAIXA-PRETA VAZIA? | FAB INTERCEPTA VOO DE TRAFICANTES",
@@ -252,10 +240,10 @@
           "url": "https://www.youtube.com/watch?v=pRG67ApIkaA",
           "thumbnail": "https://i1.ytimg.com/vi/pRG67ApIkaA/hqdefault.jpg",
           "description": "",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-pRG67ApIkaA/pRG67ApIkaA.mp3",
-          "audio_size": 9121524,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-31T17:09:22.438077+00:00",
-          "purged_at": null
+          "purged_at": "2026-11-03T11:12:34.343535+00:00"
         },
         "bwoSlnOn6BI": {
           "video_id": "bwoSlnOn6BI",
@@ -264,10 +252,10 @@
           "url": "https://www.youtube.com/watch?v=bwoSlnOn6BI",
           "thumbnail": "https://i3.ytimg.com/vi/bwoSlnOn6BI/hqdefault.jpg",
           "description": "",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-bwoSlnOn6BI/bwoSlnOn6BI.mp3",
-          "audio_size": 5354046,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-31T17:09:36.823821+00:00",
-          "purged_at": null
+          "purged_at": "2026-11-03T11:12:34.343535+00:00"
         },
         "7EFG1m6A9-s": {
           "video_id": "7EFG1m6A9-s",
@@ -276,10 +264,10 @@
           "url": "https://www.youtube.com/watch?v=7EFG1m6A9-s",
           "thumbnail": "https://i4.ytimg.com/vi/7EFG1m6A9-s/hqdefault.jpg",
           "description": "",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-7EFG1m6A9-s/7EFG1m6A9-s.mp3",
-          "audio_size": 4842031,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-10-31T17:09:50.004855+00:00",
-          "purged_at": null
+          "purged_at": "2026-11-03T11:12:34.343535+00:00"
         },
         "0Q5g9akS7MI": {
           "video_id": "0Q5g9akS7MI",
@@ -288,10 +276,10 @@
           "url": "https://www.youtube.com/watch?v=0Q5g9akS7MI",
           "thumbnail": "https://i1.ytimg.com/vi/0Q5g9akS7MI/hqdefault.jpg",
           "description": "Hoje, no Aeroluz, Diogo da Luz fala sobre a visão dos pilotos sobre a \"fuga\" de Flávio Bolsonario para os Estados Unidos.\n\n🔔 Inscreva-se no canal, ative o sininho e deixe seu comentário!",
-          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-0Q5g9akS7MI/0Q5g9akS7MI.mp3",
-          "audio_size": 13154372,
+          "audio_url": null,
+          "audio_size": 0,
           "downloaded_at": "2026-11-01T05:26:07.379997+00:00",
-          "purged_at": null
+          "purged_at": "2026-11-03T11:12:34.343535+00:00"
         }
       }
     },
