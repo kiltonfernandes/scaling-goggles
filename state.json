@@ -280,6 +280,42 @@
           "audio_size": 4730695,
           "downloaded_at": "2026-11-03T21:06:01.413605+00:00",
           "purged_at": null
+        },
+        "CVwfXoJFYc0": {
+          "video_id": "CVwfXoJFYc0",
+          "title": "AO VIVO | COBERTURA COMPLETA: A DERROTA HISTÓRICA DE TRUMP NAS ELEIÇÕES AMERICANAS",
+          "published": "2026-11-04T17:55:50+00:00",
+          "url": "https://www.youtube.com/watch?v=CVwfXoJFYc0",
+          "thumbnail": "https://i4.ytimg.com/vi/CVwfXoJFYc0/hqdefault.jpg",
+          "description": "Sávio Di Maio analisa os resultados das eleições americanas na MathiasTV.\n\nTorne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-CVwfXoJFYc0/CVwfXoJFYc0.mp3",
+          "audio_size": 13670615,
+          "downloaded_at": "2026-11-04T20:02:47.848736+00:00",
+          "purged_at": null
+        },
+        "Qbkk0gXIFMA": {
+          "video_id": "Qbkk0gXIFMA",
+          "title": "AO VIVO | FLÁVIO SE FRUSTA COM TRUMP | ELEIÇÕES NOS EUA | ARTISTAS COBRAM LULA",
+          "published": "2026-11-04T19:12:38+00:00",
+          "url": "https://www.youtube.com/watch?v=Qbkk0gXIFMA",
+          "thumbnail": "https://i2.ytimg.com/vi/Qbkk0gXIFMA/hqdefault.jpg",
+          "description": "Debate sobre os assuntos políticos mais quentes do dia.\n\nTorne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-Qbkk0gXIFMA/Qbkk0gXIFMA.mp3",
+          "audio_size": 34184649,
+          "downloaded_at": "2026-11-04T21:04:19.406881+00:00",
+          "purged_at": null
+        },
+        "6RjaW4r8BH8": {
+          "video_id": "6RjaW4r8BH8",
+          "title": "PENÉLOPE NOVA X FELIPE REIS: O DEBATE SOBRE OS CANCELAMENTOS DOS SHOWS DE JORGE E MATEUS",
+          "published": "2026-11-04T18:44:34+00:00",
+          "url": "https://www.youtube.com/watch?v=6RjaW4r8BH8",
+          "thumbnail": "https://i3.ytimg.com/vi/6RjaW4r8BH8/hqdefault.jpg",
+          "description": "",
+          "audio_url": "https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-6RjaW4r8BH8/6RjaW4r8BH8.mp3",
+          "audio_size": 9094749,
+          "downloaded_at": "2026-11-04T21:04:38.469208+00:00",
+          "purged_at": null
         }
       }
     },
