@@ -8,38 +8,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:27:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 10:40:21 +0000</lastBuildDate>
     <itunes:author>kiltonfernandes</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
-    <item>
-      <title>Canal do Paulo Mathias - AO VIVO | URGENTE: FLÁVIO FAZ REVELAÇÃO NO NEW YORK TIMES | TUDO SOBRE PRONUNCIAMENTO DE LULA</title>
-      <link>https://www.youtube.com/watch?v=bMvIlFUvEIc</link>
-      <description>Tudo sobre os assuntos políticos mais quentes do dia.
-
-Torne-se membro do canal e tenha acesso a conteúdos exclusivos ou de forma antecipada: https://www.youtube.com/channel/UCARu6TU-jEPZISboI3TEYZw/join</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=bMvIlFUvEIc</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-bMvIlFUvEIc/bMvIlFUvEIc.mp3" length="41613648" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Nov 2026 19:18:25 +0000</pubDate>
-      <itunes:image href="https://i3.ytimg.com/vi/bMvIlFUvEIc/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>Canal do Paulo Mathias - HOMEM QUE AGREDIU IDOSO COM VOADORA É PRESO EM SP</title>
-      <link>https://www.youtube.com/watch?v=x1FcpKPoZcg</link>
-      <description>HOMEM QUE AGREDIU IDOSO COM VOADORA É PRESO EM SP</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=x1FcpKPoZcg</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-x1FcpKPoZcg/x1FcpKPoZcg.mp3" length="3653954" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Nov 2026 19:42:32 +0000</pubDate>
-      <itunes:image href="https://i1.ytimg.com/vi/x1FcpKPoZcg/hqdefault.jpg"/>
-    </item>
-    <item>
-      <title>Canal do Paulo Mathias - JOVEM MORRE APÓS CAIR DO SÉTIMO ANDAR DE HOTEL NO MARANHÃO</title>
-      <link>https://www.youtube.com/watch?v=L-qBObn7eSE</link>
-      <description>JOVEM MORRE APÓS CAIR DO SÉTIMO ANDAR DE HOTEL NO MARANHÃO</description>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=L-qBObn7eSE</guid>
-      <enclosure url="https://github.com/kiltonfernandes/scaling-goggles/releases/download/v-L-qBObn7eSE/L-qBObn7eSE.mp3" length="3156472" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Nov 2026 19:44:44 +0000</pubDate>
-      <itunes:image href="https://i1.ytimg.com/vi/L-qBObn7eSE/hqdefault.jpg"/>
-    </item>
   </channel>
 </rss>
